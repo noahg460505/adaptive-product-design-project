@@ -10,7 +10,7 @@
 **Occupation:** Tailor  
 **Ethnicity:** White  
 **Description:**
-Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12.
+Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12. He has the need for a pair of scissors due to his profession as a tailor. 
   
 ---
 ## Existing Product Analysis  
