@@ -15,3 +15,4 @@ Today was more work on the APAO project.
 
 ## Week 3
 ### Day 3 - 2026-10-20
+Today Mr. Small was back, and he gave us more instructions for Section A. We added a bunch more stuff to our Section A.
