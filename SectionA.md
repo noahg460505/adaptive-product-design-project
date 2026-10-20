@@ -10,8 +10,7 @@
 **Grip Strength\*:** 26.8 KG  
 **Occupation:** Tailor  
 **Ethnicity:** White  
-**Description:**  
-Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12. He has the need for a pair of scissors due to his profession as a tailor. 
+**Description:**  Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12, while building a bird house with his stepfather. He needs access to a reliable pair of scissors for his profession as a tailor. His current use of standard scissors is inconsistent and hard to use, especially while cutting thicker materials. He enjoys Bocce Ball, Pop Tarts, and volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays.
   
   
 \*Grip strength test done by multiple male students using all but their thumb and index finger on their dominant hand, this is by no means a perfect test of someone who is actually missing a thumb and index finger. Additionally, these people were all 17, not 24. This is also a rather small and biased sample size, but due to the fact that this test is a rough approximation, we did not consider it worthwhile to do a larger sample size.
