@@ -7,11 +7,11 @@ Today we were assigned this project. I partnered with Kevin, we picked "scissors
 ### Day 2 - 2026-10-12
 Today we worked on [Section A](../SectionA.md). All the commits were from me, but Kevin and I took turns typing on my computer. We discussed who our persona is, what they do for work, and problems with normal scissors and current accessible alternatives.
 
-### Day 3 - 2026-10-14
+### 2026-10-14
 Today was the intro to our other, parallel project, so no work was done on the adaptive product design project.
 
-### Day 4 - 2026-10-16
+### 2026-10-16
 Today was more work on the APAO project.
 
 ## Week 3
-### Day 5 - 2026-10-20
+### Day 3 - 2026-10-20
