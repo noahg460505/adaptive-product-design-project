@@ -7,7 +7,7 @@
   
 | Category                                  | Requirement                               | Criteria for Success              |
 |-------------------------------------------|-------------------------------------------|-----------------------------------|
-| Asthetics                                 |                                           |                                   |
+| Aesthetics                                 |                                           |                                   |
 | Functionality                             |                                           |                                   |
 | Materials                                 |                                           |                                   |
 | Size                                      |                                           |                                   |
