@@ -11,6 +11,9 @@
 **Occupation:** Tailor  
 **Ethnicity:** White  
 **Description:**  Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12, while building a bird house with his stepfather. He needs access to a reliable pair of scissors for his profession as a tailor. His current use of standard scissors is inconsistent and hard to use, especially while cutting thicker materials. He enjoys Bocce Ball, Pop Tarts, and volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays, also requiring a pair of scissors.
+
+# Storyboard
+![Storyboard](./Images/2026-10-26-Storyboard.png)
   
 ---
 # Existing Product Analysis  
