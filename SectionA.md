@@ -10,21 +10,8 @@
 **Grip Strength\*:** TODO: FIND AVERAGE MALE GRIP STRENGTH FOR WHITE 24 Y.O. AND USE THE AVERAGE PERCENTAGE INSTEAD OF AVERAGE GRIP STRENGTH  
 **Occupation:** Tailor  
 **Ethnicity:** White  
-**Description:**  Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12, while building a bird house with his stepfather. He needs access to a reliable pair of scissors for his profession as a tailor. His current use of standard scissors is inconsistent and hard to use, especially while cutting thicker materials. He enjoys Bocce Ball, Pop Tarts, and volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays.
-  
-  
-\*Grip strength test done by multiple male students using all but their thumb and index finger on their dominant hand, this is by no means a perfect test of someone who is actually missing a thumb and index finger. Additionally, these people were all 17, not 24. This is also a rather small and biased sample size, but due to the fact that this test is a rough approximation, we did not consider it worthwhile to do a larger sample size.  
-
-*All values in table are to three significant figures.*
-| Name    | Strength (w/o index + thumb) | Strength (all five fingers) | Strength w/o index + thumb as a percentage of strength with all five fingers|
-|---------|------------------------------|-----------------------------|--------------------|
-| Noah    | 26.8 KG                      | 43.3 KG                     | 61.9% |
-| Markus  | 38.9 KG                      | 66.2 KG                     | 58.8% |
-| Kevin   | 24.9 KG                      | 40.2 KG                     | 61.9% |
-| Corwin  | 31.7 KG                      | 43.6 KG                     | 72.7% |
-| Eli     | 35.9 KG                      | 50.2 KG                     | 71.5% |
-| AVERAGES | 31.6 KG                     | 48.7 KG                     | 65.4% |
-
+**Description:**  Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12, while building a bird house with his stepfather. He needs access to a reliable pair of scissors for his profession as a tailor. His current use of standard scissors is inconsistent and hard to use, especially while cutting thicker materials. He enjoys Bocce Ball, Pop Tarts, and volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays, also requiring a pair of scissors.
+   
 ---
 ## Existing Product Analysis  
 ### Standard Commercial Scissors
