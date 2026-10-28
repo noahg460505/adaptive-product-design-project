@@ -16,4 +16,4 @@ Today, I started on section 2 and set up the design specification. I also added 
 Today, I started the storyboard of Steve Jarenson. I took pictures of Noah's hand, traced them in Canva, added some other drawings, and set up the panels.
 
 ### Homework - 2026-10-27
-For homework, I finished the storyboard. I added annotations to the panels, and uploaded it to the portfolio.
+For homework, I finished the storyboard. I added annotations to the panels, and uploaded it to the portfolio. I also changed the description of Steve Jarenson to be a paragraph, and added to the descriptions of the standard pair of scissors, and the two accessible options.
