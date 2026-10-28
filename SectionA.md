@@ -3,16 +3,7 @@
   
 ---
 # Persona
-**Name:** Steve Jarenson  
-**Age:** 24     
-**Sex:** Male  
-**Dominant Hand:** Right  
-**Grip Strength:** 30.7 KG  
-**Occupation:** Tailor  
-**Ethnicity:** White  
-**Description:**  Mr. Jarenson lost his thumb and index finger in a table saw accident at age 12, while building a bird house with his stepfather. He needs access to a reliable pair of scissors for his profession as a tailor. His current use of standard scissors is inconsistent and hard to use, especially while cutting thicker materials. He enjoys Bocce Ball, Pop Tarts, and volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays, also requiring a pair of scissors.  
-
-Mr. Jarenson's missing fingers have made his life and career much more difficult, as he is very restricted in his ability to grasp things with his dominant hand.
+Steve Jarenson is a 24 year old male from Missouri. He works as a freelance tailor in Kansas. He is right hand dominant, and lost his thumb and index finger in a table saw accident at age 19, while building a birdhouse with his stepfather. He needs access to a reliable, easy to use, and convenient pair of scissors for his profession as a tailor, as he uses scissors regularly to cut fabric. Currently, he is using a standard pair of scissors from Office Depot, which is hard for him to articulate, and not stable in his hand. When cutting thicker materials, because of his lack of thumb, he has to use his other hand. This means he has no way to stabilize the material, and it takes longer and is significantly less convenient to make straight, accurate cuts. In his free time, he enjoys Bocce Ball, and he volunteers at his local rec center, helping with a kids Arts and Crafts program on Sundays, which also requires him to use a pair of scissors to cut paper.
   
 # Storyboard
 ![Storyboard](./Images/2026-10-26-Storyboard.png)
@@ -21,9 +12,9 @@ Mr. Jarenson's missing fingers have made his life and career much more difficult
 # Existing Product Analysis  
 ## Standard Commercial Scissors
 ![Standard Scissors](./Images/2026-10-20-Standard-Scissors.jpg)
-- Held with a hole for a thumb on one side, and a hole for digits two, three, and four on the other side.
+- A standard pair of scissors is held with a hole for a thumb on one side, and a hole for digits two, three, and four on the other side.
 - The blades are articulated by spreading apart the two holes, through the opening and closing of the palm, along with the slight lifting of digits two through four.
-For an individual without a thumb and digit two, articulating the blades proves difficult, as there is no thumb to do the majority of the movememt.
+For an individual without a thumb and digit two, articulating the blades proves difficult, as the thumb is a major part in the use and stability of the scissors. The lack of a thumb means there is nothing to consistently articulate the top hole, which proves difficult to use the scissors.
   
 ---
 # Existing Accessible Scissors  
@@ -34,7 +25,7 @@ For an individual without a thumb and digit two, articulating the blades proves 
 | Pros                                                              | Cons                                                  |
 |-------------------------------------------------------------------|-------------------------------------------------------|
 | Braces against palm without a thumb hole                          | Still uses thumb for additional stability             |
-| Springloaded to reopen without needing to be pulled open by thumb | Top handle isn't ergonomic, it is just a straight bar |
+| Spring loaded to reopen without needing to be pulled open by a thumb | Top handle isn't ergonomic, it is just a straight bar. This can cause fatigue over time |
   
 ---
 ## Existing Option 2:  
@@ -42,7 +33,8 @@ For an individual without a thumb and digit two, articulating the blades proves 
   
 | Pros                                                              | Cons                                                                                            |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Somewhat ergonomic shape, better shape than option 1.             | Still significantly uses thumb, even more than option 1                                         |
-| Spring-loaded to reopen without needing to be pulled open by thumb | Uses digit two for additional stability                                                        |
-|                                                                   | The plastic "spring" portion doesn't appear to be very structurally sound, would likely fatigue |
+| The top bar is more ergonomic than option one, curving to the shape of the hand.             | Still uses the thumb for stability and strength for cutting.|
+| Spring-loaded to reopen without needing to be pulled open by thumb | Uses digit two for additional stability, which is missing    |
+|       | The plastic "spring" portion doesn't appear to be structurally sound, and has a high likelihood of fatuge |
+|       | The bottom finger hole is not ergonomic, it's just a flat bar with an oval hole.|
 
