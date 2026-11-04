@@ -13,9 +13,9 @@ Working in pairs, design and develop an adaptation to one existing product that 
 ## The user
 Your starting persona is missing the thumb and index finger on one hand and retains the middle, ring, and little fingers.
 Develop this persona by identifying:
-- Which hand is affected, their goals, and the context in which they use the product.
-- Relevant abilities, preferences, and difficulties.
-- Information you know, assumptions you are making, and the questions requiring investigation.  
+* Which hand is affected, their goals, and the context in which they use the product.
+* Relevant abilities, preferences, and difficulties.
+* Information you know, assumptions you are making, and the questions requiring investigation.  
 
 Do not assume that people with the same missing digits have the same strength, movement, sensation, or needs.
 Clearly label a fictional persona and any unverified details.
