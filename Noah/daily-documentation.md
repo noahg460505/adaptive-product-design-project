@@ -16,3 +16,11 @@ Today was more work on the APAO project.
 ## Week 3
 ### Day 3 - 2026-10-20
 Today Mr. Small was back, and he gave us more instructions for Section A. We added a bunch more stuff to our Section A.
+
+## Week 4
+### Day 4 - 2026-10-26
+Today I worked more on Section A, including [the Appendix.](../Appendix.md)
+
+## Week 5
+### Day 5 - 2026-11-02
+Today we didn't get much done, we were both VERY confused by what we are supposed to do for section B tbh.
