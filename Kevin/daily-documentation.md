@@ -17,3 +17,10 @@ Today, I started the storyboard of Steve Jarenson. I took pictures of Noah's han
 
 ### Homework - 2026-10-27
 For homework, I finished the storyboard. I added annotations to the panels, and uploaded it to the portfolio. I also changed the description of Steve Jarenson to be a paragraph, and added to the descriptions of the standard pair of scissors, and the two accessible options.
+/
+## Week 5
+### Day 5 - 2026-11-2
+Today, I started work on my design specification and problem statement. I got a good portion of my problem statement, to be edited upon later, and at least a quarter of the design specification done.
+
+### Homework - 2026-11-3 to 2026-11-6
+For homework off and on through the rest of the week, I finished my design specification.
