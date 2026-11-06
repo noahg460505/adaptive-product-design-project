@@ -4,10 +4,10 @@ To use a pair of scissors, it is required for you to have a thumb, to hold the s
 
 | Category                  | Specification                             | Justification                | Priority  | Essential/Desirable  | Measurement for Success          |
 |---------------------------|-------------------------------------------|------------------------------|-----------|----------------------|----------------------------------|
-| Aesthetics                |                                           |                              |           | Desirable |                                  |
-| Functionality             |                                           |                              |           |  Essential  |                                  |
+| Functionality             |  The scissors should b   |                              |           | Desirable |                                  |
+| Materials                 | The handles should be constructed of durable plastic  |Plastic is cheap and durable, and easy to mold into whatever ergonomic shape we want. |  3  |  Essential  |                                  |
 | Materials                 | The blades should be made of stainless steel |  Stainless steel is a good material for durability and sharpness  |  2 | Esssential  |                                  |
 | Size                      | The size of the scissors should be relatively similar to a normal pair of scissors, and they should be comfortable to hold, not clunky or to big. |  |2 | Desirable | Compare to a range of different existing scissors, testing size, weight, etc. |
 | Target Audience           | People who are missing their thumb and digit one, approximately 17-40, at least 50% of body types represented |                              |  1  | Essential  | Compare different hand sizes in a range of demographics  |
 | Quality                   | The scissors should be sharp enough to cut through a variety of different materials with little to no difficulty, including fabric and paper.  | For a pair of scissors to be useful, they need to be able to cut materials with ease. | 1  |                      |                                  |
-| Production                |                                           |                              |           |                      |                                  |
+| Quality                | The handle of the scissors should be solidly held on to the metal blades, with no slipping or disconnecting   |                              |           |                      |                                  |
