@@ -24,3 +24,9 @@ Today I worked more on Section A, including [the Appendix.](../Appendix.md)
 ## Week 5
 ### Day 5 - 2026-11-02
 Today we didn't get much done, we were both VERY confused by what we are supposed to do for section B tbh.
+
+### Day 6 - 2026-11-04
+I got a bit more of the section B done, still don't have as much as I'd like though.
+
+## Week 6
+### Day 7 - 2026-11-10
